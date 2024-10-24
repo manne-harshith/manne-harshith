@@ -1,6 +1,6 @@
--👋 Hi, I’m Manne Harshith
--👀 I’m interested in Problem Solving, Learning New Technologies, and Software Engineering
--🌱 I’m currently learning Web Development and sharpening my Problem-Solving skills in Data Structures and Algorithms (DSA)
--📫 How to reach me: harshithmanne@gmail.com
--😄 Pronouns: He/Him
--⚡ Fun fact:I love finding innovative solutions to everyday problems—like creating virtual try-on apps to make shopping more fun!
+- -👋 Hi, I’m Manne Harshith
+- -👀 I’m interested in Problem Solving, Learning New Technologies, and Software Engineering
+- -🌱 I’m currently learning Web Development and sharpening my Problem-Solving skills in Data Structures and Algorithms (DSA)
+- -📫 How to reach me: harshithmanne@gmail.com
+- -😄 Pronouns: He/Him
+- -⚡ Fun fact:I love finding innovative solutions to everyday problems—like creating virtual try-on apps to make shopping more fun!
