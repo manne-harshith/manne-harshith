@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @manne-harshith
-- 👀 I’m interested in ...Problem solving,learing new technologies,Software Engineering
-- 🌱 I’m currently learning ...Web developement and sharpening Problem solving(DSA)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...harshithmanne@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-manne-harshith/manne-harshith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋 Hi, I’m Manne Harshith
+-👀 I’m interested in Problem Solving, Learning New Technologies, and Software Engineering
+-🌱 I’m currently learning Web Development and sharpening my Problem-Solving skills in Data Structures and Algorithms (DSA)
+-📫 How to reach me: harshithmanne@gmail.com
+-😄 Pronouns: He/Him
+-⚡ Fun fact:I love finding innovative solutions to everyday problems—like creating virtual try-on apps to make shopping more fun!
